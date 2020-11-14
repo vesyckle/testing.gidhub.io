@@ -1,2 +1,0 @@
-# testing.gidhub.io
-Root
